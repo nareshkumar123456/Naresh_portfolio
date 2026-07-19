@@ -16,7 +16,7 @@ const projects = [
     image: '/ai_deepfake.png',
     tags: ['AI', 'Python', 'Image Processing'],
     demo: '#',
-    github: '#',
+    github: 'https://github.com/nareshkumar123456/-Ai-deepfake-detector',
   },
   {
     title: 'Gadgetgalaxy Store Website Application',
