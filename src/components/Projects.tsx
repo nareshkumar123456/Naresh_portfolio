@@ -19,7 +19,7 @@ const projects = [
     github: '#',
   },
   {
-    title: 'Store Website Application',
+    title: 'Gadgetgalaxy Store Website Application',
     description: 'Created an online store website with product listing and navigation features. Focused on responsive design and smooth user experience.',
     image: '/store_website.png',
     tags: ['React.js', 'Responsive Design'],
