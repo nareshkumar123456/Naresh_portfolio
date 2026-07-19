@@ -15,8 +15,8 @@ const projects = [
     description: 'Built an AI-based system to detect and analyze deepfake content. Focused on identifying manipulated images/videos using intelligent processing techniques. Developed an interactive interface.',
     image: '/ai_deepfake.png',
     tags: ['AI', 'Python', 'Image Processing'],
-    demo: 'https://github.com/nareshkumar123456/-Ai-deepfake-detector',
-    github: 'https://github.com/nareshkumar123456/-Ai-deepfake-detector',
+    demo: '#',
+    github: '#',
   },
   {
     title: 'Store Website Application',
@@ -24,7 +24,7 @@ const projects = [
     image: '/store_website.png',
     tags: ['React.js', 'Responsive Design'],
     demo: '#',
-    github: '#',
+    github: 'https://github.com/nareshkumar123456/Gadgetgalaxy-store',
   },
 ];
 
