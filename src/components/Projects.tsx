@@ -15,7 +15,7 @@ const projects = [
     description: 'Built an AI-based system to detect and analyze deepfake content. Focused on identifying manipulated images/videos using intelligent processing techniques. Developed an interactive interface.',
     image: '/ai_deepfake.png',
     tags: ['AI', 'Python', 'Image Processing'],
-    demo: '#',
+    demo: 'https://github.com/nareshkumar123456/-Ai-deepfake-detector',
     github: '#',
   },
   {
